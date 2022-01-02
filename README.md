@@ -16,3 +16,4 @@ I'm Currently Learning JavaScript and DevOps.<br/>
 I'm looking for help with DBMS.<br/>
 You can reach me at:<br/>
 [BharadwajSrikaa](https://twitter.com/BharadwajSrikaa)
+Anime Lover 😉![GokuSongokuGIF](https://user-images.githubusercontent.com/75110000/147881471-589e7105-3860-4f0b-b0df-a44d2b3be696.gif)
