@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Currently Learning JavaScript and DevOps.<br/>
+I'm Currently Learning Java and DevOps.<br/>
 <!-- I'm looking for help with DBMS.<br/> -->
 You can reach me at:<br/>
 [BharadwajSrikaa](https://twitter.com/BharadwajSrikaa)<br/>
