@@ -12,10 +12,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Currently Learning Java and DevOps.<br/>
-<!-- I'm looking for help with DBMS.<br/> -->
-You can reach me at:<br/>
-[BharadwajSrikaa](https://twitter.com/BharadwajSrikaa)<br/>
-Anime Lover 😉!<br/>
-![GokuSongokuGIF (2)](https://user-images.githubusercontent.com/75110000/147881526-3142a7e1-399d-478d-9582-9a7092aa3e60.gif)
+Heyyy
 
